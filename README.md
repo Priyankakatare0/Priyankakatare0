@@ -26,8 +26,8 @@
     </td>
 
     <!-- Right side: Image -->
-    <td align="center" width="35%">
-      <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="200" height="200" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
+    <td align="center" width="40%">
+      <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="400" height="400" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
     </td>
   </tr>
 </table>
