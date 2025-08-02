@@ -27,7 +27,7 @@
 
     <!-- Right side: Image -->
     <td align="center" width="40%">
-      <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="400" height="400" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
+      <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="400" height="600" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@
 
 ## 🔗 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/priyanka-katare-67b455274/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:priyanka.katare2129@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Priyankakatare0"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
