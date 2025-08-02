@@ -20,14 +20,13 @@
   - 🔧 Working on full-stack <strong>MERN apps</strong> and CRM Dashboards  
   - 🌱 Exploring <strong>React, Node.js, MongoDB</strong> and RESTful APIs  
   - ⚡ I love both backend logic & frontend polish  
-  - 📬 Email me at: <strong>priyanka.katare2129@gmail.com</strong>  
   - ✨ Fun Fact: I break complex UIs into beautiful, responsive components
 
     </td>
 
     <!-- Right side: Image -->
     <td align="center" width="40%">
-      <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="400" height="600" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
+      <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="400" height="700" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
     </td>
   </tr>
 </table>
