@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://your-banner-image-link.com/banner.png](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center" style="font-size: 54px;">Hi 👋, I'm <strong>Priyanka Katare</strong></h1>
 <h2 align="center" style="font-size: 32px;">Full Stack Developer | BCA Data Science | Backend & Frontend Enthusiast 🚀</h2>
 
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="220" height="220" style="border-radius: 50%; box-shadow: 0 0 20px #aaa;" alt="Priyanka's Avatar" />
+  <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" width="100%" height="220" style="border-radius: 50%; box-shadow: 0 0 20px #aaa;" alt="Priyanka's Avatar" />
 </p>
 
 ---
@@ -69,10 +69,15 @@
 
 ## 📊 <span style="font-size:26px;">GitHub Statistics</span>
 
+<!--
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyankakatare0&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyankakatare0&theme=radical&hide_border=true" width="48%" />
 </p>
+-->
+
 
 ---
 
